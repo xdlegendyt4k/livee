@@ -1,0 +1,10 @@
+{
+  "name": "LIVE",
+  "description": "LIVE ON YT",
+  "keywords": ["LIVE", "YOUTUBE"],
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
